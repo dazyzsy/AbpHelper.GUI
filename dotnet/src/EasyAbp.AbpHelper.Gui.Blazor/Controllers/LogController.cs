@@ -2,7 +2,6 @@
 using System.Text;
 using System.Threading.Tasks;
 using EasyAbp.AbpHelper.Gui.LogService;
-using Elsa.Activities.Http.Activities;
 using Microsoft.AspNetCore.Mvc;
 using EasyAbp.AbpHelper.Gui.Controllers;
 using System;

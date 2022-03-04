@@ -1,7 +1,6 @@
 ﻿using System.Threading.Tasks;
 using EasyAbp.AbpHelper.Core.Commands.Ef.Migrations.Add;
 using EasyAbp.AbpHelper.Core.Commands.Ef.Migrations.Remove;
-using EasyAbp.AbpHelper.Gui.CodeGeneration.Migration;
 using EasyAbp.AbpHelper.Gui.CodeGeneration.Migration.Dtos;
 using EasyAbp.AbpHelper.Gui.Shared.Dtos;
 

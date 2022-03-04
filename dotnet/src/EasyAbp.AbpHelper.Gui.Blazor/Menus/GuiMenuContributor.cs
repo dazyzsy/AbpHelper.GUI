@@ -47,7 +47,14 @@ namespace EasyAbp.AbpHelper.Gui.Blazor.Menus
                     "/CodeGeneration"
                 )
             );
-            
+
+            context.Menu.Items.Add(new ApplicationMenuItem(
+                    GuiMenus.BaanCodeGeneration,
+                    l["Menu:BaanCodeGeneration"],
+                    "/BaanCodeGeneration"
+                )
+            );
+
             context.Menu.Items.Add(new ApplicationMenuItem(
                 GuiMenus.ModuleManagement,
                 l["Menu:ModuleManagement"],
